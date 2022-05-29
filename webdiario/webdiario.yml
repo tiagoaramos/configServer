@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    password: root
+    username:
+    url: 'jdbc:mysql://localhost:3307/webdiario'
+  jpa:
+    hibernate:
+      ddl-auto: update
